@@ -3,7 +3,7 @@
     "userId": 1,
     "id": 1,
     "title": "delectus aut autem",
-    "completed": "<script>alert('hi')</script>"
+    "completed": "<script>;alert('hi');</script>"
   },
   {
     "userId": 1,
